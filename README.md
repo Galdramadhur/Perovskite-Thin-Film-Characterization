@@ -14,7 +14,7 @@ scipy / 1.4.1
 tensorflow / 2.5.0
 random2 / 1.0.1
 
-**How to run**
+**How to run:**
 
 Get the data from here: [LINK to be uploaded soon]
 
